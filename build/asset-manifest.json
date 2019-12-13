@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ravimokka/TestSQD.git/static/css/main.ef85ce39.chunk.css",
-    "main.js": "/ravimokka/TestSQD.git/static/js/main.1cf99f7f.chunk.js",
-    "main.js.map": "/ravimokka/TestSQD.git/static/js/main.1cf99f7f.chunk.js.map",
-    "runtime-main.js": "/ravimokka/TestSQD.git/static/js/runtime-main.ddfb0b47.js",
-    "runtime-main.js.map": "/ravimokka/TestSQD.git/static/js/runtime-main.ddfb0b47.js.map",
-    "static/css/2.214f6439.chunk.css": "/ravimokka/TestSQD.git/static/css/2.214f6439.chunk.css",
-    "static/js/2.f446eec6.chunk.js": "/ravimokka/TestSQD.git/static/js/2.f446eec6.chunk.js",
-    "static/js/2.f446eec6.chunk.js.map": "/ravimokka/TestSQD.git/static/js/2.f446eec6.chunk.js.map",
-    "index.html": "/ravimokka/TestSQD.git/index.html",
-    "precache-manifest.9e3a7f5dccf261c57753ca2b0566e46b.js": "/ravimokka/TestSQD.git/precache-manifest.9e3a7f5dccf261c57753ca2b0566e46b.js",
-    "service-worker.js": "/ravimokka/TestSQD.git/service-worker.js",
-    "static/css/2.214f6439.chunk.css.map": "/ravimokka/TestSQD.git/static/css/2.214f6439.chunk.css.map",
-    "static/css/main.ef85ce39.chunk.css.map": "/ravimokka/TestSQD.git/static/css/main.ef85ce39.chunk.css.map",
-    "static/js/2.f446eec6.chunk.js.LICENSE": "/ravimokka/TestSQD.git/static/js/2.f446eec6.chunk.js.LICENSE",
-    "static/media/style.scss": "/ravimokka/TestSQD.git/static/media/ProximaNovaT-Thin.d51181ca.woff"
+    "main.css": "/ravimokka/SQProject.git/static/css/main.cb6e783e.chunk.css",
+    "main.js": "/ravimokka/SQProject.git/static/js/main.bfc873e1.chunk.js",
+    "main.js.map": "/ravimokka/SQProject.git/static/js/main.bfc873e1.chunk.js.map",
+    "runtime-main.js": "/ravimokka/SQProject.git/static/js/runtime-main.bf99e73c.js",
+    "runtime-main.js.map": "/ravimokka/SQProject.git/static/js/runtime-main.bf99e73c.js.map",
+    "static/css/2.214f6439.chunk.css": "/ravimokka/SQProject.git/static/css/2.214f6439.chunk.css",
+    "static/js/2.0cf5dfde.chunk.js": "/ravimokka/SQProject.git/static/js/2.0cf5dfde.chunk.js",
+    "static/js/2.0cf5dfde.chunk.js.map": "/ravimokka/SQProject.git/static/js/2.0cf5dfde.chunk.js.map",
+    "index.html": "/ravimokka/SQProject.git/index.html",
+    "precache-manifest.cf527da4c35a89cbfd473ad145364f21.js": "/ravimokka/SQProject.git/precache-manifest.cf527da4c35a89cbfd473ad145364f21.js",
+    "service-worker.js": "/ravimokka/SQProject.git/service-worker.js",
+    "static/css/2.214f6439.chunk.css.map": "/ravimokka/SQProject.git/static/css/2.214f6439.chunk.css.map",
+    "static/css/main.cb6e783e.chunk.css.map": "/ravimokka/SQProject.git/static/css/main.cb6e783e.chunk.css.map",
+    "static/js/2.0cf5dfde.chunk.js.LICENSE": "/ravimokka/SQProject.git/static/js/2.0cf5dfde.chunk.js.LICENSE",
+    "static/media/style.scss": "/ravimokka/SQProject.git/static/media/ProximaNovaT-Thin.d51181ca.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddfb0b47.js",
+    "static/js/runtime-main.bf99e73c.js",
     "static/css/2.214f6439.chunk.css",
-    "static/js/2.f446eec6.chunk.js",
-    "static/css/main.ef85ce39.chunk.css",
-    "static/js/main.1cf99f7f.chunk.js"
+    "static/js/2.0cf5dfde.chunk.js",
+    "static/css/main.cb6e783e.chunk.css",
+    "static/js/main.bfc873e1.chunk.js"
   ]
 }
