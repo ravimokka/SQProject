@@ -1,1 +1,0 @@
-/*"homepage": "https://github.com/ravimokka/NSQD.git",*/
